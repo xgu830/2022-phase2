@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+#search-content {
+    display: flex;
+    justify-content: center;
+}
+
+#pokemon-result {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 100px 10px 0px 10px;
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
